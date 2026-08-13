@@ -1,0 +1,17 @@
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: "Food Service"
+    description: "Food Service - Development Environment"
+    version: "1.0.0-DEV"
+    environment: "Development"
+    author: "Irfan"

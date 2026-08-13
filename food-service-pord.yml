@@ -1,0 +1,17 @@
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  info:
+    env:
+      enabled: true
+
+info:
+  app:
+    name: "Food Service"
+    description: "Food Service - Production Environment"
+    version: "1.0.0-PROD"
+    environment: "Production"
+    author: "Irfan"
