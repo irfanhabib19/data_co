@@ -11,7 +11,7 @@ management:
 info:
   app:
     name: "Food Service"
-    description: "Food Service - Development Environment"
+    description: "Food Service - Development Environment  keep doing "
     version: "1.0.0-DEV"
     environment: "Development"
     author: "Irfan"
